@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined UMass Amherst as a PhD Student    
+Joined UMass Amherst as a PhD Student

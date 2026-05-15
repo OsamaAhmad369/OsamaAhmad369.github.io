@@ -193,5 +193,3 @@ cv:
           - Integrated radar-based speed estimation.
           - Optimized OCR and inference latency for real-time deployment.
           - Improved robustness under motion blur and lighting variation.
-
-   
