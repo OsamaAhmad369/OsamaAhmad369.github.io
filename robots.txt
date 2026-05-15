@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://osamaahmad.github.io/sitemap.xml
+Sitemap: https://OsamaAhmad369.github.io/sitemap.xml
