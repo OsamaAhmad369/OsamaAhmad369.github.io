@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /toolbox/
 title: Toolbox
 description:
 nav: true

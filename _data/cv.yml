@@ -55,7 +55,7 @@ cv:
         position: Data Engineering Research Assistant
         location: Australia
         start_date: 2025-09
-        end_date: present
+        end_date: 2026-01
         highlights:
           - Designed scalable data crawling, filtering, and deduplication pipelines to curate high-quality datasets for large language model training.
 
@@ -63,7 +63,7 @@ cv:
         position: Adjunct Faculty — AI on Edge Devices
         location: Lahore, Pakistan
         start_date: 2025-09
-        end_date: present
+        end_date:  2026-01
         highlights:
           - Delivered graduate-level lectures and hands-on labs on TinyML, model compression, and on-device inference.
 
@@ -80,7 +80,7 @@ cv:
         position: Research Assistant
         location: Lahore, Pakistan
         start_date: 2021-05
-        end_date: present
+        end_date: 2026-01
         summary: Worked at the Machine Vision and Artificial Intelligence Lab and Center for Urban Informatics, Technology, and Policy.
         highlights:
           - Designed IoT-based smart vending machine systems using embedded sensors.
@@ -113,7 +113,7 @@ cv:
           - L. Wesemann
           - F. Waschkowski
           - Z. Khalid
-        publisher: IEEE Signal Processing Letters
+        publisher: IEEE Signal Processing Letters [Under Review]
         releaseDate: Review
 
       - title: Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting
@@ -122,7 +122,7 @@ cv:
           - L. Wesemann
           - F. Waschkowski
           - Z. Khalid
-        publisher: ACM Transactions on Intelligent Systems and Technology
+        publisher: ACM Transactions on Intelligent Systems and Technology [Under Review]
         releaseDate: Review
 
       - title: Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention
