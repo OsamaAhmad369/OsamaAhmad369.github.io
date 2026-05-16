@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: Research
 description: >
-nav: false
+nav: true
 nav_order: 2
 ---
 
@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="research">
+<div class="publications">
 
 {% bibliography %}
 
